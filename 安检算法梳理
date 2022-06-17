@@ -1,1 +1,85 @@
-<mxfile host="app.diagrams.net" modified="2022-06-17T02:07:55.855Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="FzuXs0luQawLILxELPSu" version="20.0.1" type="github"><diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">7Vzbcps6FP0aP3YGJK6PxzlJ+5DOdCadnmcFFMMpRh4s13G/viJIBiMby5cgpVZeYm0JAXst9l66wATezV8/V2iRfSUpLibASV8n8N8JAK7nROxfbdk0ltDjhlmVp7xRa3jKf2NudLh1lad4udOQElLQfLFrTEhZ4oTu2FBVkfVusxdS7J51gWZYMjwlqJCt/+UpzbjVdZy24gvOZxk/deTzimeU/JxVZFXy85WkxE3NHIlueNNlhlKy7pjg/QTeVYTQ5tf89Q4XtVuFx5rjHg7Ubi+5wiVVOSAMcZDE4YsbBymKIviJ9/ALFSvuhm/M5/xi6Ub4ZrnO5wVitwWnGZ0XzOiyn0mWF+kj2pBVffIlZX4QpSkrVZSDzC4KTt8chOvrqEtbR9SFAj3jYrr14h0pSMWq3vxY91SRn1tI6vO+kJI+oHle1Ez7gasUlYib+RkjVkRFPivZ74T5BrP+prKzxN3jiuLXjok77zMmc0yrDWvCa0OOI6e4x4vrli9xwG1ZhyqhoAriHJ1te27BYj84XorYAQm7xxoi4LiK+EkYyR46SJjjLuM+ArKP3L0+gu/ho0jykeSblpi1T9ZZTvHTAiV17ZpFup7LjODtQSooExnsEjnwZZCcPSAF74FRbDFSwcj1dYIksrRFqYcS3EXJD/bEu9FQAoEECk6ZyuFFUtGMzEiJivvWOt2FrQPRMVRY9vinFl4920NeX3CT5jsZxmdlXKbiiKRAy2WefM/ysqngh7lNqXPQ/5jSDS+jFSXM1N7IIyGLbTo7hybKKW9JVlWCh/MMu90ZPtgP76hGZJBZFS4QzX/t6tLr8iS0PNHCE8GBQaLE1+bJ26HMoWjTabAgeUmXnZ6/1YZO+vH255+HA+3DwebsR3MBLWG3d3ImhyPLYS0cjlViHTAm1okEbXkydqyDOmLd+TyRh82WJ6PwJPhYPJEHPpYnY/BEjIc/gnbqTa/EvWnZ4eYwHG4eDja/vtKC0DLe3Azq+uaExtgSxdzQCKAxRPGsJtdEFJWIAjxdRHGd8BmFAfYwhP5LHH+ymlxT5glVMk9kDE+sJtcUT4AKT64eT84S5UHQU+XusMzut/f94faeM9j+Yl0ukd7KcnGVEwCdt7+zH4emuK+/UZ8UbdMcErm8myeXyRHVuYmIGo0cUH3LeT1qU2X4ev3YeBbne5wMjomC+ML27jtz3u4Y0cR5z2g9IM/tNX3Ku03loZeO3aaitpdh9O4+Fbs9/vZNc/BUmGA/KMoojbZnzjtEbHl4pZHYEBhFbHAbxPZOhsmoPbtyzJZRysj8ebU8jpCJ729cjldvj9u+Nzqi0eCSI5F9qPY8VJq3WNs1zusLZjHZNCiYlSZGzFnj9A/pCnlmTaOu8CKjdIXstL8yBPqnwgSP56kRdUVwa7riZLx6ugLueazG0xWhfahUHqrt+p2eh+pGXoO8FCXN6k/lNUgb+rpzOzqHVNCuYhqyRC6W1gYVPm80rPC5+DBA4UO7Xnj9oaASUVTeGBGyxwSi2EU2TURReVdR5HQDiCIPrPicgRxpNM4ZBP1ZU71zBjfyjZfgVJiMGt6AG1kKvRilSCtKwKL0AQahKut6FqW9Q8/xUIL2GyvXF31CSA+KPpWP8Yh8ZIDog/ZDJnqIsv3M6CBRgDFEkefx+ehAHl5qHB1EjkmjA3AjmyrCU2EaMVeyYvuJ22bPcvsJYXj/Bw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-06-17T03:46:52.382Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="E9A1HCXKkMHmdir04TkN" version="20.0.1" type="github">
+  <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
+    <mxGraphModel dx="1422" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="FKEIp6GmQDpJTFjtoE8N-2" value="Application" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#21C0A5;strokeColor=#006658;fontColor=#5C5C5C;" vertex="1" parent="1">
+          <mxGeometry x="160" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FKEIp6GmQDpJTFjtoE8N-4" value="" style="line;strokeWidth=4;direction=south;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;fillColor=#21C0A5;strokeColor=#006658;fontColor=#5C5C5C;" vertex="1" parent="1">
+          <mxGeometry x="215" y="120" width="10" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="FKEIp6GmQDpJTFjtoE8N-5" value="请求工作票阶段&lt;br&gt;" style="line;strokeWidth=2;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fillColor=#21C0A5;strokeColor=#006658;fontColor=#5C5C5C;" vertex="1" parent="1">
+          <mxGeometry x="220" y="200" width="160" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="FKEIp6GmQDpJTFjtoE8N-7" value="初始化文件目录（定期删除）" style="line;strokeWidth=2;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fillColor=#21C0A5;strokeColor=#006658;fontColor=#5C5C5C;" vertex="1" parent="1">
+          <mxGeometry x="220" y="270" width="230" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="FKEIp6GmQDpJTFjtoE8N-9" value="设置定时器启动 定时器调用&amp;nbsp;&amp;nbsp;&lt;span style=&quot;background-color: rgb(242, 243, 247); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 11.3pt;&quot;&gt;reconfig_deepstream&lt;/span&gt;" style="line;strokeWidth=2;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fillColor=#21C0A5;strokeColor=#006658;fontColor=#5C5C5C;" vertex="1" parent="1">
+          <mxGeometry x="220" y="430" width="370" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="FKEIp6GmQDpJTFjtoE8N-14" value="" style="line;strokeWidth=2;direction=north;html=1;fillColor=#21C0A5;strokeColor=#006658;fontColor=#5C5C5C;" vertex="1" parent="1">
+          <mxGeometry x="500" y="320" width="20" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FKEIp6GmQDpJTFjtoE8N-26" value="&lt;pre style=&quot;background-color:#f2f3f7;color:#262626;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:11.3pt;&quot;&gt;&lt;span style=&quot;color:#94558d;&quot;&gt;self&lt;/span&gt;._camera_operator_list&lt;/pre&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#5C5C5C;" vertex="1" parent="1">
+          <mxGeometry x="510" y="300" width="220" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FKEIp6GmQDpJTFjtoE8N-30" value="&lt;pre style=&quot;background-color:#f2f3f7;color:#262626;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:11.3pt;&quot;&gt;&lt;span style=&quot;color:#94558d;&quot;&gt;self&lt;/span&gt;._connected_camera_operator_list&lt;/pre&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#5C5C5C;" vertex="1" parent="1">
+          <mxGeometry x="510" y="340" width="300" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FKEIp6GmQDpJTFjtoE8N-36" value="初始化摄像头&lt;br&gt;" style="line;strokeWidth=2;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fillColor=#21C0A5;strokeColor=#006658;fontColor=#5C5C5C;" vertex="1" parent="1">
+          <mxGeometry x="220" y="340" width="290" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="FKEIp6GmQDpJTFjtoE8N-53" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=11;fontColor=#666666;strokeColor=#006658;fillColor=#21C0A5;" edge="1" parent="1" source="FKEIp6GmQDpJTFjtoE8N-37" target="FKEIp6GmQDpJTFjtoE8N-42">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="380" y="490" />
+              <mxPoint x="880" y="490" />
+              <mxPoint x="880" y="90" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FKEIp6GmQDpJTFjtoE8N-37" value="启动子任务消息循环&amp;nbsp; 配置&amp;nbsp;&amp;nbsp;&lt;span style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 11.3pt; color: rgb(148, 85, 141);&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;background-color: rgb(242, 243, 247); color: rgb(38, 38, 38); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 11.3pt;&quot;&gt;._tasks&lt;br&gt;&lt;/span&gt;" style="line;strokeWidth=2;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fillColor=#21C0A5;strokeColor=#006658;fontColor=#5C5C5C;" vertex="1" parent="1">
+          <mxGeometry x="220" y="500" width="320" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="FKEIp6GmQDpJTFjtoE8N-39" value="&lt;span style=&quot;background-color: rgb(242, 243, 247); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 11px;&quot;&gt;判断子任务是否异常，如果异常则退出&lt;br style=&quot;font-size: 11px;&quot;&gt;如果所有任务都未执行则退出程序&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;/span&gt;" style="line;strokeWidth=2;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fillColor=#21C0A5;strokeColor=#006658;fontColor=#666666;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="220" y="580" width="290" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="FKEIp6GmQDpJTFjtoE8N-42" value="Task" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#21C0A5;strokeColor=#006658;fontColor=#5C5C5C;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FKEIp6GmQDpJTFjtoE8N-43" value="请求工作票阶段&lt;br&gt;" style="line;strokeWidth=2;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fillColor=#21C0A5;strokeColor=#006658;fontColor=#5C5C5C;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="200" width="160" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="FKEIp6GmQDpJTFjtoE8N-44" value="初始化文件目录（定期删除）" style="line;strokeWidth=2;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fillColor=#21C0A5;strokeColor=#006658;fontColor=#5C5C5C;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="270" width="230" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="FKEIp6GmQDpJTFjtoE8N-45" value="设置定时器启动 定时器调用&amp;nbsp;&amp;nbsp;&lt;span style=&quot;background-color: rgb(242, 243, 247); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 11.3pt;&quot;&gt;reconfig_deepstream&lt;/span&gt;" style="line;strokeWidth=2;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fillColor=#21C0A5;strokeColor=#006658;fontColor=#5C5C5C;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="430" width="370" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="FKEIp6GmQDpJTFjtoE8N-46" value="" style="line;strokeWidth=2;direction=north;html=1;fillColor=#21C0A5;strokeColor=#006658;fontColor=#5C5C5C;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="320" width="20" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FKEIp6GmQDpJTFjtoE8N-47" value="&lt;pre style=&quot;background-color:#f2f3f7;color:#262626;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:11.3pt;&quot;&gt;&lt;span style=&quot;color:#94558d;&quot;&gt;self&lt;/span&gt;._camera_operator_list&lt;/pre&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#5C5C5C;" vertex="1" parent="1">
+          <mxGeometry x="1410" y="300" width="220" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FKEIp6GmQDpJTFjtoE8N-48" value="&lt;pre style=&quot;background-color:#f2f3f7;color:#262626;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:11.3pt;&quot;&gt;&lt;span style=&quot;color:#94558d;&quot;&gt;self&lt;/span&gt;._connected_camera_operator_list&lt;/pre&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#5C5C5C;" vertex="1" parent="1">
+          <mxGeometry x="1410" y="340" width="300" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FKEIp6GmQDpJTFjtoE8N-49" value="初始化摄像头&lt;br&gt;" style="line;strokeWidth=2;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fillColor=#21C0A5;strokeColor=#006658;fontColor=#5C5C5C;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="340" width="290" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="FKEIp6GmQDpJTFjtoE8N-50" value="启动子任务消息循环&amp;nbsp; 配置&amp;nbsp;&amp;nbsp;&lt;span style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 11.3pt; color: rgb(148, 85, 141);&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;background-color: rgb(242, 243, 247); color: rgb(38, 38, 38); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 11.3pt;&quot;&gt;._tasks&lt;br&gt;&lt;/span&gt;" style="line;strokeWidth=2;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fillColor=#21C0A5;strokeColor=#006658;fontColor=#5C5C5C;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="500" width="320" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="FKEIp6GmQDpJTFjtoE8N-51" value="&lt;span style=&quot;background-color: rgb(242, 243, 247); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 11px;&quot;&gt;判断子任务是否异常，如果异常则退出&lt;br style=&quot;font-size: 11px;&quot;&gt;如果所有任务都未执行则退出程序&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;/span&gt;" style="line;strokeWidth=2;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fillColor=#21C0A5;strokeColor=#006658;fontColor=#666666;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="580" width="290" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="FKEIp6GmQDpJTFjtoE8N-52" value="" style="line;strokeWidth=4;direction=south;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;fillColor=#21C0A5;strokeColor=#006658;fontColor=#5C5C5C;" vertex="1" parent="1">
+          <mxGeometry x="1115" y="120" width="10" height="500" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
